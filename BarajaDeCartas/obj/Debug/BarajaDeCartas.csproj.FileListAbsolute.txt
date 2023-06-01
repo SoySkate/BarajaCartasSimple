@@ -1,0 +1,7 @@
+C:\Users\formacio3\source\repos\BarajaDeCartas\BarajaDeCartas\bin\Debug\BarajaDeCartas.exe.config
+C:\Users\formacio3\source\repos\BarajaDeCartas\BarajaDeCartas\bin\Debug\BarajaDeCartas.exe
+C:\Users\formacio3\source\repos\BarajaDeCartas\BarajaDeCartas\bin\Debug\BarajaDeCartas.pdb
+C:\Users\formacio3\source\repos\BarajaDeCartas\BarajaDeCartas\obj\Debug\BarajaDeCartas.csproj.AssemblyReference.cache
+C:\Users\formacio3\source\repos\BarajaDeCartas\BarajaDeCartas\obj\Debug\BarajaDeCartas.csproj.CoreCompileInputs.cache
+C:\Users\formacio3\source\repos\BarajaDeCartas\BarajaDeCartas\obj\Debug\BarajaDeCartas.exe
+C:\Users\formacio3\source\repos\BarajaDeCartas\BarajaDeCartas\obj\Debug\BarajaDeCartas.pdb
